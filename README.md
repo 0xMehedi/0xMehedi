@@ -14,7 +14,7 @@
 
 ## GitHub Stats
 
-![Mehedi Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMehedi&show_icons=true&bg_color=30,333333,6e5494&title_color=fff&text_color=fff)
+![Mehedi Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMehedi&count_private=true&show_icons=true&bg_color=30,333333,6e5494&title_color=fff&text_color=fff)
 
 ## PGP Public Key
 
